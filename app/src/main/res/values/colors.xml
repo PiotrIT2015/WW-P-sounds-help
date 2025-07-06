@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="spinner_background_color">#E0E0E0</color>  <!--  Szary kolor dla tła spinnera-->
+    <color name="spinner_popup_background_color">#F5F5F5</color> <!--  Bardziej jasny szary dla listy-->
+</resources>
