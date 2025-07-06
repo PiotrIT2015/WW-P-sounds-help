@@ -5,7 +5,7 @@
 * [License](#License)
 
 ## General info
-It is an android app which coul help disabled people cope with listen disability.
+It is an android app which could help disabled people cope with listen disability.
 
 ## License
 
